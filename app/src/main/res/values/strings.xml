@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QRWork</string>
+
+    <string name="importQR">Import QR-code</string>
+    <string name="scanQR">Scan QR-code</string>
+    <string name="generateQR">Generate QR-code</string>
+
+    <string name="link_example">Empty link!</string>
+    <string name="open_browser">Open browser</string>
+    <string name="copy_link">Copy link</string>
+    <string name="open_camera">Open camera</string>
+
+    <string name="generate">Generate</string>
+    <string name="share_image">Share image</string>
+    <string name="edit_text_hint">Write link or string here!</string>
+    <string name="choosing_image_hint">Choose qr-code image to read link!</string>
+
+    <string name="copied_toast">Copied link!</string>
+    <string name="bad_image_toast">Bad image!</string>
+    <string name="edit_text_toast">Check edit text field!</string>
+    <string name="no_image_toast">No image!</string>
+
+    <string name="github_link">https://github.com/8DietmarBarbarossa8</string>
+</resources>
